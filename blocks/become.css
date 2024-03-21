@@ -1,0 +1,32 @@
+.become {
+  background: url(img/Woman\ doing\ situps.png) no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+.hh3 {
+  font-size: 60px;
+  font-weight: 700;
+  margin-top: 17%;
+  margin-bottom: 0;
+  text-align: center;
+  color: white;
+}
+
+.hh3_mini {
+  color: white;
+  margin: 0 auto 1.5% auto;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.check {
+  display: block;
+  text-align: center;
+}
+
+.long {
+  padding: 25px 80px 25px 80px;
+  margin-bottom: 14%;
+}/*# sourceMappingURL=become.css.map */

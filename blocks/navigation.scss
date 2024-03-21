@@ -1,0 +1,41 @@
+.space {
+    align-items: center;
+    justify-content:space-between;
+}
+.navigation {
+    align-items: center;
+    justify-content:space-between;
+    font-size: 16px;
+    font-weight: 400;
+    flex-basis: 70%;
+    line-height: 17.52px;
+}
+.sear {
+    display: flex;
+    justify-content: space-around;
+}
+.sear__text {
+    color: #fff
+}
+.search {
+    margin: 0;
+    margin-left: 10px;
+}
+.good {
+    color: white;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 43.8px;
+    margin-left: 36px;
+}
+.lyfe {
+    color: #FFC1D8;
+}
+.header {
+    background-color: #E43071;
+    height: 100px;
+    width: 100%;
+}
+.button_link {
+    @include button_link(white,#E43071);
+}

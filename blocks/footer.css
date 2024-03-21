@@ -1,0 +1,68 @@
+.footer {
+  background: #0B0D17;
+}
+
+.logo {
+  width: 16%;
+  margin: 3% 0 0 12%;
+}
+
+.vocem {
+  margin: 0;
+  font-size: 26px;
+  font-weight: 800;
+}
+
+.lyfee {
+  color: #E43071;
+}
+
+.lorem_fot {
+  color: #D9DBE1;
+  font-size: 14px;
+  font-weight: 400;
+  /* line-height: 25px; */
+  /* margin-top: 24px;
+  margin-bottom: 24px; */
+}
+
+.links {
+  width: 60%;
+  margin-bottom: 50%;
+}
+
+.quick {
+  margin: 2% 0 0 6%;
+  width: 15%;
+}
+
+.title_nav {
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  margin-bottom: 11%;
+}
+
+.ter {
+  margin: 0;
+}
+
+.mar {
+  margin-top: 2%;
+  cursor: pointer;
+}
+
+.quicky {
+  margin: 2% 0 0 3%;
+  width: 15%;
+}
+
+.reachimg {
+  width: 20px;
+  height: 18px;
+}
+
+.right {
+  text-align: left;
+}/*# sourceMappingURL=footer.css.map */

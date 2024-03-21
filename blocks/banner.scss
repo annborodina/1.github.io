@@ -1,0 +1,20 @@
+h1 {
+    margin: 19% auto 0 auto;
+    text-align: center;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 20%;
+    color: white;
+}
+.welcome {
+    background: url(img/Female\ working\ out1.png) no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.group {
+    width: 130px;
+    margin: 0 auto 0 auto;
+}
+.button_link {
+    @include button_link(#E43071, white);
+}

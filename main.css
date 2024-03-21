@@ -1,0 +1,445 @@
+h1 {
+  margin: 19% auto 0 auto;
+  text-align: center;
+  font-size: 70px;
+  font-weight: 700;
+  line-height: 20%;
+  color: white;
+}
+
+.welcome {
+  background: url(img/Female\ working\ out1.png) no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+.group {
+  width: 130px;
+  margin: 0 auto 0 auto;
+}
+
+.become {
+  background: url(img/Woman\ doing\ situps.png) no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+.hh3 {
+  font-size: 60px;
+  font-weight: 700;
+  margin-top: 17%;
+  margin-bottom: 0;
+  text-align: center;
+  color: white;
+}
+
+.hh3_mini {
+  color: white;
+  margin: 0 auto 1.5% auto;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.check {
+  display: block;
+  text-align: center;
+}
+
+.long {
+  padding: 25px 80px 25px 80px;
+  margin-bottom: 14%;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+
+.row {
+  display: flex;
+}
+
+.wrap {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.button_link {
+  padding: 14px 61px 14px 61px;
+  background-color: white;
+  color: #E43071;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin-right: 3%;
+  border-radius: 200px;
+}
+
+.button_link_re {
+  padding: 25px 61px 25px 61px;
+  background-color: #E43071;
+  color: white;
+  width: -moz-fit-content;
+  width: fit-content;
+  border-radius: 200px;
+  text-align: center;
+  margin: 0 auto 10% auto;
+}
+
+.main {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.footer {
+  background: #0B0D17;
+}
+
+.logo {
+  width: 16%;
+  margin: 3% 0 0 12%;
+}
+
+.vocem {
+  margin: 0;
+  font-size: 26px;
+  font-weight: 800;
+}
+
+.lyfee {
+  color: #E43071;
+}
+
+.lorem_fot {
+  color: #D9DBE1;
+  font-size: 14px;
+  font-weight: 400;
+  /* line-height: 25px; */
+  /* margin-top: 24px;
+  margin-bottom: 24px; */
+}
+
+.links {
+  width: 60%;
+  margin-bottom: 50%;
+}
+
+.quick {
+  margin: 2% 0 0 6%;
+  width: 15%;
+}
+
+.title_nav {
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  margin-bottom: 11%;
+}
+
+.ter {
+  margin: 0;
+}
+
+.mar {
+  margin-top: 2%;
+  cursor: pointer;
+}
+
+.quicky {
+  margin: 2% 0 0 3%;
+  width: 15%;
+}
+
+.reachimg {
+  width: 20px;
+  height: 18px;
+}
+
+.right {
+  text-align: left;
+}
+
+.meet {
+  position: relative;
+}
+
+.male {
+  margin: 7% auto 15% 10%;
+}
+
+.female {
+  position: absolute;
+  top: 35%;
+  left: 22%;
+}
+
+.bord {
+  border: 2px solid #E43071;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.paragraph {
+  width: 37%;
+  margin: 15% 10% auto auto;
+  justify-content: center;
+}
+
+h2 {
+  font-size: 40px;
+  font-weight: 700;
+  color: #E43071;
+  margin-bottom: 0;
+}
+
+.text {
+  color: #424242;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 5%;
+  line-height: 37px;
+}
+
+.space {
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navigation {
+  align-items: center;
+  justify-content: space-between;
+  font-size: 16px;
+  font-weight: 400;
+  flex-basis: 70%;
+  line-height: 17.52px;
+}
+
+.sear {
+  display: flex;
+  justify-content: space-around;
+}
+
+.sear__text {
+  color: #fff;
+}
+
+.search {
+  margin: 0;
+  margin-left: 10px;
+}
+
+.good {
+  color: white;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 43.8px;
+  margin-left: 36px;
+}
+
+.lyfe {
+  color: #FFC1D8;
+}
+
+.header {
+  background-color: #E43071;
+  height: 100px;
+  width: 100%;
+}
+
+.pink {
+  margin: 0;
+  justify-content: space-between;
+  background-color: #E43071;
+}
+
+.dont {
+  width: 40%;
+  margin: 4% 0 0 15%;
+}
+
+.forget {
+  margin-top: 0;
+  color: white;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.lorem {
+  width: 83%;
+  color: white;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 37px;
+}
+
+.download {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.icon {
+  width: 282px;
+  height: 40px;
+  margin-bottom: 10%;
+}
+
+.phone {
+  margin: 0;
+  margin-bottom: -6px;
+  margin-right: 11%;
+}
+
+.iphone {
+  margin-top: -15%;
+}
+
+.weights {
+  width: 30%;
+  margin: 22% auto 15% 10%;
+}
+
+.gym {
+  position: absolute;
+  top: 20%;
+  left: 51%;
+}
+
+.left {
+  margin: 15% auto auto 8%;
+  width: 34%;
+}
+
+.social {
+  text-align: center;
+  background: #EDEDED;
+}
+
+.socials {
+  margin-top: 2%;
+  margin-bottom: 3%;
+  align-items: center;
+  cursor: pointer;
+}
+
+.socmin {
+  width: 30%;
+}
+
+.real {
+  background: url(img/Rectangle\ 17.png) no-repeat;
+  background-size: cover;
+}
+
+.texttable {
+  margin: 0 0 1% 20%;
+  width: 28%;
+}
+
+h3 {
+  margin-bottom: 0;
+  color: #424242;
+  font-size: 48px;
+  font-weight: 600;
+}
+
+.customers {
+  display: block;
+  text-align: left;
+}
+
+.inspired {
+  color: #424242;
+  margin-top: 2%;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.story {
+  margin: 0 0 0 auto;
+  width: 70%;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 1px 4px 8px 0px rgba(0, 0, 0, 0.18);
+}
+
+.Kg {
+  margin: 10% auto 3% 8%;
+  color: #E43071;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 45.296px;
+}
+
+.kov {
+  color: #F8C5D7;
+  font-family: "Times New Roman";
+  font-size: 58px;
+  font-weight: 700;
+  margin: 0 0 0 8%;
+}
+
+.max {
+  width: 70%;
+  margin: 4% 0 4% 2%;
+}
+
+.chel {
+  width: 70%;
+  margin-left: 18%;
+}
+
+.portrait {
+  width: 59px;
+  height: 57px;
+}
+
+.name {
+  justify-content: space-between;
+  margin-left: 8%;
+}
+
+.fio {
+  color: #424242;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 34px;
+  margin: 0;
+}
+
+.status {
+  color: #969BAB;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 15px;
+  margin: 0;
+  margin-bottom: 35%;
+}
+
+.tabletable {
+  width: 30%;
+  margin: 6% auto 5% 2%;
+}
+
+.second {
+  width: 90%;
+  margin: 0;
+  margin-bottom: 6%;
+}
+
+.third {
+  width: 70%;
+  margin: 0;
+}/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,15 @@
+.social {
+  text-align: center;
+  background: #EDEDED;
+}
+
+.socials {
+  margin-top: 2%;
+  margin-bottom: 3%;
+  align-items: center;
+  cursor: pointer;
+}
+
+.socmin {
+  width: 30%;
+}/*# sourceMappingURL=socials.css.map */

@@ -1,0 +1,130 @@
+@media (max-width: 1024px) {
+    .meet {
+        padding-bottom: 100px;
+        flex-wrap: wrap;
+    }
+
+    .meet .male {
+        margin: 100px auto 15px 50px;
+    }
+
+    .meet .female {
+        top: 220px;
+        left: 220px;
+    }
+
+    .paragraph {
+        width: 100%;
+        text-align: center;
+    }
+
+    .bord {
+        margin: 0 auto; 
+    }
+
+    .nav {
+        justify-content: right;
+    }
+
+    .row a {
+        display: none;
+    }
+
+    .sear a {
+        display: block;
+    }
+
+    .sear__text {
+        display: none;
+    }
+
+    .burger {
+        display: block;
+        position: relative;
+        right: 10px;
+        width: 32px;
+        height: 24px;
+        border-bottom: 4px solid #fff;
+        border-radius: 3px;
+    }
+
+    .burger::after {
+        content: '';
+        position: absolute;
+        width: 32px;
+        top: 12px;
+        left: 0;
+        border-top: 4px solid #fff;
+        border-radius: 3px;
+    }
+
+    .burger::before {
+        content: '';
+        position: absolute;
+        width: 32px;
+        top: 0;
+        left: 0;
+        border-top: 4px solid #fff;
+        border-radius: 3px;
+    }
+
+    .search {
+    margin-right: 20px;
+    }
+}
+
+@media (max-width: 870px) {
+    .weights {
+        position: relative;
+        left: 40px;
+        margin: 0;
+        width: 70%
+    }
+
+    .gym {
+        position: relative;
+        left: 140px;
+        bottom: 100px;
+        width: 70%;
+    }
+
+    .real {
+        flex-wrap: wrap;
+    }
+
+    .texttable {
+        width: auto;
+    }
+    
+    .tabletable {
+        width: auto;
+    }
+
+    .story {
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    .pink {
+        flex-wrap: wrap;
+    }
+
+    .dont {
+        margin-bottom: 50px;
+        width: auto;
+    }
+}
+
+@media (max-width: 540px) {
+    .welcome h1, .welcome p {
+        line-height: 70px;
+    }
+
+    .footer {
+        flex-wrap: wrap;
+    }
+
+    .footer div {
+        width: auto;
+    }
+}
